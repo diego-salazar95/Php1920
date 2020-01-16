@@ -4,7 +4,7 @@
 echo "<h1>Alta empleado</h1>";
 
 /* Conexión BD */
-define('DB_SERVER', 'localhost');
+define('DB_SERVER', '10.129.25.209');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', 'rootroot');
 define('DB_DATABASE', 'empleadonn');
